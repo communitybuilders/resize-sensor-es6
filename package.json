@@ -1,0 +1,27 @@
+{
+  "name": "resize-sensor-es6",
+  "version": "1.0.0",
+  "description": "A component to detect element resize",
+  "main": "ResizeSensor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WoodBettle/resize-sensor-es6.git"
+  },
+  "keywords": [
+    "resize",
+    "element",
+    "es6",
+    "eslint",
+    "WoodBettle",
+    "component"
+  ],
+  "author": "Flowkey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WoodBettle/resize-sensor-es6/issues"
+  },
+  "homepage": "https://github.com/WoodBettle/resize-sensor-es6#readme"
+}
