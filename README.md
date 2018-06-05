@@ -4,14 +4,20 @@ Extracts the Resize sensor out of [CSS Element Queries](https://github.com/marcj
 
 ## Quick Use
 
-	var sensor = new ResizeSensor(element, function(){
-		console.log("anything inside of element caused my size to change");
-	})
+```js
+const sensor = new ResizeSensor(element, () => {
+	console.log('anything inside of element caused my size to change');
+})
+```
 
 ## Remove the Listener
 
-	sensor.detach()
+```js
+sensor.detach();
+```
 
 or
-	
-	ResizeSensor.detach(element);
+
+```js	
+ResizeSensor.detach(element);
+```
