@@ -1,6 +1,6 @@
 {
   "name": "@cbar/resize-sensor-es6",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A component to detect element resize",
   "main": "ResizeSensor.js",
   "scripts": {
